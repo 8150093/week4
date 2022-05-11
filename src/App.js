@@ -1,8 +1,7 @@
-import InputSample from "./InputSample";
-function App() {
-  return (
-    <InputSample />
+import Introduce from './Intrduce';
+
+function App(){
+  return(
+    <Introduce />
   );
 }
-
-export default App;
