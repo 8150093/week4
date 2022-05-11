@@ -1,0 +1,77 @@
+.title{
+    text-align: center;
+    font-weight: bolder;
+
+}
+
+
+
+.introduce{
+    color: black;
+    text-align : center;
+    font-size: 20px;
+}
+
+.container{
+    background-color : pink;
+    border-radius: 50px;
+    width: 90%
+    margin-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+
+.me{
+    width:300px;
+    float:center;
+    
+}
+
+.card{
+    font-size: 20px;
+    text-align: center;
+    background-color:white;
+}
+
+.pole{
+    width: 400px;
+    height: 400px;
+}
+
+
+.card-1{
+    font-size: 20px;
+    text-align: center;
+    background-color:skyblue;
+}
+.pororo{
+    width: 400px;
+    height: 400px;
+}
+
+.card-2{
+    font-size:20px;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+.cook{
+    width: 400px;
+    height: 400px;
+
+}
+
+.trip{
+    width: 400px;
+    height: 400px;
+}
+
+.text{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 32px;
+    height: 32px;
+    border-right: .05em solid black;
+    animation: cursor 0.5s ease infinite;
+    text-align: center;
+}
